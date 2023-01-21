@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 
 ## Example Results
-![Example Results] (https://github.com/noorkhokhar99/pothole-detection/blob/main/result1.jpg)
+![Example Results] (https://github.com/Vasu1712/patHole-DetAction/blob/7b001b392ca914709d465c1730cd76cc948f502e/result1.jpg)
 
 
 
